@@ -1,6 +1,6 @@
 # X86, ARM, GPUs, Oh My! Today’s Programming Environment for the Complex, Many-choice Platforms in HPC
 
-## Half-Day Workshop to be held at ISC 2018
+## _Half-Day Workshop to be held at ISC 2018_
 
 
 A key component for a fast and balanced supercomputer is the
