@@ -1,7 +1,4 @@
-
-
-X86, ARM, GPUs, Oh My! Today’s Programming Environment for
-the Complex, Many-choice Platforms in HPC
+# X86, ARM, GPUs, Oh My! Today’s Programming Environment for the Complex, Many-choice Platforms in HPC
 
  
 
